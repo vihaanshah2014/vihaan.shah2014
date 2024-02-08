@@ -3,7 +3,7 @@
 🔗 [GitHub](https://github.com/vihaanshah2014) | 🔗 [LinkedIn](https://www.linkedin.com/in/vihaanshah04)  
 
 ### 🎵 Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)]((https://open.spotify.com/user/whoami%3F2014))
+<iframe width=\"100%\" height=\"152\" title=\"Spotify Embed: My Path to Spotify: Women in Engineering \" style=\"border-radius: 12px\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" src=\"https://open.spotify.com/embed/episode/7makk4oTQel546B0PZlDM5?utm_source=oembed\"></iframe>
 
 ### 💻 Skills
 - **Programming Languages**: Python, Java, C++, C, C#, JavaScript, MATLAB, Simulink  
