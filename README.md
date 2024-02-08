@@ -5,9 +5,6 @@
 ### 🎵 Now Playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyusername)
 
-
-
-
 ### 💻 Skills
 - **Programming Languages**: Python, Java, C++, C, C#, JavaScript, MATLAB, Simulink  
 - **Technologies**: AWS, Azure, Docker, React.js, Flask, Redis, Spring, Android, ROS
